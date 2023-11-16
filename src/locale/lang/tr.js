@@ -98,6 +98,7 @@ export default {
   },
   player: {
     like: 'Beğen',
+    unlike: 'Aksine',
     previous: 'Önceki Müzik',
     next: 'Sonraki Müzik',
     repeat: 'Tekrarla',
@@ -107,6 +108,8 @@ export default {
     pause: 'Durdur',
     mute: 'Sesi kapat',
     nextUp: 'Sıradaki',
+    translationLyric: 'şarkı sözleri (çeviri)',
+    PronunciationLyric: 'şarkı sözleri (çeviri)',
   },
   modal: {
     close: 'Kapat',
@@ -124,6 +127,17 @@ export default {
     settings: 'Ayarlar',
     logout: 'ÇIKIŞ YAP',
     language: 'Diller',
+    lyric: 'Şarkı Sözleri',
+    others: 'Diğerleri',
+    customization: 'Özelleştirme',
+    MusicGenrePreference: {
+      text: 'Müzik Dili Tercihi',
+      none: 'Tercih yok',
+      mandarin: 'Çince dili',
+      western: 'Avrupa ve Amerika',
+      korean: 'Korece',
+      japanese: 'Japonca',
+    },
     musicQuality: {
       text: 'Müzik Kalitesi',
       low: 'Düşük',
